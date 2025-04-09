@@ -1,0 +1,63 @@
+Virtual Mouse O x Current File v @ Fed @ i &a Q 6 - a x
+
+7 4 AlVirtualMouseProject.py <  %@ HandTrackingModule12.py
+
+ra import cv2 B1a5v~5~~- @
+
+q
+'
+
+import numpy as np
+import HandTrackingModule12 as
+import time
+
+import autopy
+
+‘ import pyttsx3
+
+from pynput.mouse import Controller as MouseController
+| import speech_recognition as sr _
+a Li import pyautogui
+4 import pytesseract
+; import os
+. from datetime import datetime
+
+i import ctypes # For controlling system volume
+e |
+, # Tesseract OCR Path
+pytesseract.pytesseract_cmd = r‘C:\Program Files\Tesseract-OCR\tesseract.exe'
+
+HAHHHAHHAAHAEAHHRR HRA
+wCam, hCam = 649, 480
+frameR = 100
+
+smoothening = 5
+HHHHEAHHEAHHRRHHR RHE
+
+)
+
+Run  @ AlVirtualMouseProject x poo
+
+C
+
+Goa
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Listening for command...
+
+@
+
+Command received: handwriting mode
+
+@
+
+= Listening for command...
+=4 Command received: drawing mode
+Listening for command...
+
+0) fy Command received: take a screenshot
+
+Listening for command...
+
+y
+
+Ai important virtual mouse2 > ¢ AlVirtualMouseProject.py 218:24 CRLF UTF-8 4spaces Python 3.8 (Aiimportant virtual mouse2) oS.
